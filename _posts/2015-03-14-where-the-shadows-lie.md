@@ -7,7 +7,7 @@ published: True
 
 ---
 
-My TV show app is going nowhere. Far too busy to devote much time into it.I've decided the routes, the functionality and the API calls I'll have to make. I've decided on a general flow for the project, both in terms of UI and code. The Mean.js method of splitting the project into numerous files for modularity and clarity is commendable and I will imitate that flow but to a smaller extent. I won't be using a templatign engine for one thing. Not too hot on those. They seem unnecessary especially when I'm already using Angular as an MVC framework.
+My TV show app is going nowhere. Far too busy to devote much time into it.I've decided the routes, the functionality and the API calls I'll have to make. I've decided on a general flow for the project, both in terms of UI and code. The Mean.js method of splitting the project into numerous files for modularity and clarity is commendable and I will imitate that flow but to a smaller extent. I won't be using a templating engine for one thing. Not too hot on those. They seem unnecessary especially when I'm already using Angular as an MVC framework.
 
 So instead of that project, I'll talk a bit about my trip into the heart of Mordor. At least it was what it felt like to get this blog started with Jekyll.
 
