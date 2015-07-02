@@ -1,12 +1,8 @@
 ---
-layout: 
+published: true
 title: My best friend Snoo
-categories: []
-tags: []
-published: True
-
+layout: post
 ---
-
 The TV show app is officially on hold. :/
 
 I'll admit that was way too fast but I have reasons! Really...
